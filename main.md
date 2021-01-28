@@ -19,3 +19,4 @@ looking for new partners that will help enable our hardware.
 
 Stop by our chat and ask us questions. :)
 
+You can mail us at fosdem@sesame.com - happy to handle any inquiries.

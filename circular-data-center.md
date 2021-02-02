@@ -32,4 +32,10 @@ price per perforamnce.
 
 The circular datacenter business model absolutely depends on open source and open hardware ecosystems leveraging the open data center through projects like the [Open Compute Project](https://opencompute.org/).
 
+Our President, Ali Fenn - has a talk about the carbon savings about the circular datacenter!
+
+{{< youtube PuzEMYCGeVk >}}
+
 **Chat with us at our booth if you want to learn more!**
+
+

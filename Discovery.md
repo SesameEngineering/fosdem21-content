@@ -1,3 +1,8 @@
+---
+title: "Sesame Discovery Project"
+date:
+---
+
 The Sesame Discovery is an openly designed chassis that uses
 the supply chain from the circular datacenter and is a wonderful
 demonstration of what can be done with a completely open ecosystem.

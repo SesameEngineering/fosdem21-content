@@ -1,5 +1,5 @@
 ---
-title: "Circular Datacenter"
+title: "The Circular Datacenter"
 date: 
 ---
 

@@ -22,8 +22,40 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
   \ <br>\
   \ <br>\
   \ <br>\
-  \ <img src=\"/stands/sesame_discovery/disco3.jpg\" width=\"40%\" height=\"40%\" /> \
-  \ <img src=\"/stands/sesame_discovery/disco4.jpg\" width=\"40%\" height=\"40%\" />"
+  \ <img src=\"/stands/sesame_discovery/discovery_closed.png\" width=\"40%\" height=\"40%\" /> \
+  \ <img src=\"/stands/sesame_discovery/discovery_open.16.jpg\" width=\"43%\" height=\"43%\" /> \
+  \ <br>\
+  \ <br>\
+  \ <br>\
+  \ <h3> Schedule </h3> \
+  \ <b> Saturday, February 6, 2021 </b> \
+  \ <br>\
+  \ <br>\
+  \ <b> 9:30am - 10:00am</b> Welcome Event <br>\
+  \ <b> 10:00am - 11:00am</b> General Chat <br>\
+  \ <b> 11:00am - 12:00pm</b> Circular Data Center and Open Compute Project <br>\
+  \ <b> 12:00pm - 13:00pm</b> Let's talk about Discovery! <br>\
+  \ <b> 13:00pm - 14:00pm</b> Meet and Chat with Dr. Erik Riedel, Senior Executive VP of Sesame Engineering <br>\
+  \ <b> 14:00pm - 15:00pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
+  \ <b> 15:00pm - 16:00pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
+  \ <b> 16:00pm - 17:00pm</b> Let's chat about Open Hardware <br>\
+  \ <b> 16:00pm - 17:00pm</b> General Chat <br>\
+  \ <b> 17:00pm - 18:00pm</b> General Chat - live view of Sesame Discovery <br>\
+  \ <br>\
+  \ <br>\
+  \ <br>\
+  \ <b> Sunday, February 7, 2021 </b> \
+  \ <br>\
+  \ <br>\
+  \ <b> 9:30am - 10:00am</b> Welcome <br>\
+  \ <b> 10:00am - 11:00am</b> Let's talk about Discovery <br>\
+  \ <b> 11:00am - 12:00pm</b> Open Compute Project Topics: Open Firmware <br>\
+  \ <b> 12:00pm - 13:00pm</b> General Chat - Lunch Hour <br>\
+  \ <b> 13:00pm - 14:00pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
+  \ <b> 14:00pm - 15:00pm</b> Meet and Chat with Dr. Erik Riedel, Senior Executive VP of Sesame Engineering <br>\
+  \ <b> 15:00pm - 16:00pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
+  \ <b> 16:00pm - 17:00pm</b> General Chat - live view of Sesame Discovery <br>\
+  \ <b> 17:00pm - 18:00pm</b> General Chat<br>"
 
 layout: stand
 logo: stands/sesame_discovery/logo.png

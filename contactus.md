@@ -1,5 +1,5 @@
 ---
-title: "The Team behind Sesame Discovery"
+title: "Reaching out to us!"
 date: 
 ---
 ## Reaching out to us

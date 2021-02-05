@@ -32,14 +32,10 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
   \ <br>\
   \ <br>\
   \ <b> 9:30am - 10:00am</b> Welcome Event <br>\
-  \ <b> 10:00am - 11:00am</b> General Chat <br>\
-  \ <b> 11:00am - 12:00pm</b> Circular Data Center and Open Compute Project <br>\
-  \ <b> 12:00pm - 13:00pm</b> Let's talk about Discovery! <br>\
-  \ <b> 13:00pm - 14:00pm</b> Meet and Chat with Dr. Erik Riedel, Senior Executive VP of Sesame Engineering <br>\
-  \ <b> 14:00pm - 15:00pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
-  \ <b> 15:00pm - 16:00pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
+  \ <b> 11:00am - 11:40pm</b> Circular Data Center and Open Compute Project <br>\
+  \ <b> 12:00pm - 13:00pm</b> Let's talk about Discovery! - Chat w/ Dr. Erik Riedel, SVP of Sesame Engineering <br>\
+  \ <b> 15:00pm - 15:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
   \ <b> 16:00pm - 17:00pm</b> Let's chat about Open Hardware <br>\
-  \ <b> 16:00pm - 17:00pm</b> General Chat <br>\
   \ <b> 17:00pm - 18:00pm</b> General Chat - live view of Sesame Discovery <br>\
   \ <br>\
   \ <br>\
@@ -50,15 +46,15 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
   \ <b> 9:30am - 10:00am</b> Welcome <br>\
   \ <b> 10:00am - 11:00am</b> Let's talk about Discovery <br>\
   \ <b> 11:00am - 12:00pm</b> Open Compute Project Topics: Open Firmware <br>\
-  \ <b> 12:00pm - 13:00pm</b> General Chat - Lunch Hour <br>\
-  \ <b> 13:00pm - 14:00pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
-  \ <b> 14:00pm - 15:00pm</b> Meet and Chat with Dr. Erik Riedel, Senior Executive VP of Sesame Engineering <br>\
-  \ <b> 15:00pm - 16:00pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
-  \ <b> 16:00pm - 17:00pm</b> General Chat - live view of Sesame Discovery <br>\
-  \ <b> 17:00pm - 18:00pm</b> General Chat<br>"
+  \ <b> 13:00pm - 13:40pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
+  \ <b> 14:00pm - 14:30pm</b> Chat with Dr. Erik Riedel, SVP of Sesame Engineering <br>\
+  \ <b> 15:00pm - 15:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
+  \ <b> 16:00pm - 17:30pm</b> General Chat - live view of Sesame Discovery <br>\
+  <br>"
+
 
 layout: stand
-logo: stands/sesame_discovery/logo.png
+logo: stands/sesame_discovery/discovery-logo.png
 new_this_year: "The Sesame Discovery project has been in existence for about two years but\
   \ has not had a lot of exposure to the open source and open hardware communities. In that time\
   \ frame, we have modified the chassis to accommodate adding a true 100GBE 32 port white box switch\

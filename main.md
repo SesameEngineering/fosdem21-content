@@ -28,10 +28,15 @@ You can also mail us at fosdem@sesame.com - we would be delighted to handle any 
 Open Source/Collaboration Ecosystems that we work with:
 
 [Open Compute Project](https://opencompute.org/) and its various subprojects:
-[Open System Firmware](https://www.opencompute.org/projects/open-system-firmware)
+
+[Open System Firmware](https://www.opencompute.org/projects/open-system-firmware)</br>
+
 [OpenBMC](https://github.com/openbmc)
+
 [SONiC and ONiE](https://www.opencompute.org/projects/sonic)
+
 [Cloud Native Computing Foundation](https://https://www.cncf.io//)
+
 [The Linux Foundation](https://linuxfoundation.org/)
 
 Our contributions range from contributing fixes to system firmware,

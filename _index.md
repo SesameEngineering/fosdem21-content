@@ -11,7 +11,12 @@ description: "<b>Interested in openly designed hardware\
   \ also learn about the <b><a href=\"https://opencompute.org/\">Open Compute Project</a></b> - a consortium\
   \ of data center companies working in concert to build an open data center without vendor lock-in. The\
   \ Discovery chassis provides an open window how open hardware design works in practice.\
-  \ Learn about the role of the circular data center market segment. Not only can\
+  \ <br>\
+  \ <br>\
+  \ The Sesame Discovery is the basis of ITRenew Inc's commerical product <b> Sesame Fast-Start </b> where we combine the open design of the chassis with the ITRenew Inc's vast supply chain. With nearly 18,000 IT gear brought in a month world wide - the commercial product can provide a lot of horsepower. This supply chain is possible because of the concept of the circular datacenter. \
+  \ <br>\
+  \ <br>\
+  \  Not only can\
   \ you have great computational power that you can plug into your home, lab, or\
   \ classroom but the hardware is based on a supply chain of re-certified top tier\
   \ data center components from worlds foremost hyperscale companies like Facebook, Dropbox and Google. By\
@@ -25,12 +30,19 @@ description: "<b>Interested in openly designed hardware\
   \ <img src=\"/stands/sesame_discovery/discovery_closed.png\" width=\"40%\" height=\"40%\" /> \
   \ <img src=\"/stands/sesame_discovery/discovery_open.16.jpg\" width=\"43%\" height=\"43%\" /> \
   \ <br>\
-  \ One important aspect of the circular datacenter is the carbon costs that are saved when using the circular datacenter supply chain. <b>Ali Fenn</b> the President of ITRenew Inc has a great short 12 minute talk about the amount of waste a datacenter can produces as well the amount of resources it consume.\
+  \ One important aspect of the circular datacenter is the carbon costs that are saved when using the circular datacenter supply chain. <b>Ali Fenn</b> the President of ITRenew Inc has a great short 12 minute talk about the amount of waste a datacenter can produces as well the amount of resources it consume. In addition, there is a nice video of a tour of the design of the chassis that is the brainchild of <b>Jean-Jacques Chanut</b>. \
   \ <br>\
   \ <br>\
-  \ <iframe width=\"560\" height=\"315\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video4.webm\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video4.webm\" style=\"float:left;padding-right: 20px;\" allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+  \ <iframe width=\"320\" height=\"200\" src=\"https://ftp.osuosl.org/pub/fosdem/2021/stands/sesame/sesame_video1.mp4\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
   \ <br>
   \ <br>\
+  \ Here are some additional videos by Dr. Erik Riedel the SVP of Engineering at ITRenew Inc on the Sesame Discoveyr/Fast-Start and a tour that just goes through the facts. If your're interested in hearing more click on the chat button and come speak with us! \
+  \ <br>
+  \ <br>\
+  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video2.mp4\" style=\"float:left;padding-right: 20px;\" allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video3.mp4\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+
   \ <br>\
   \ <h3> Schedule </h3> \
   \ <b> Saturday, February 6, 2021 </b> \

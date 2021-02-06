@@ -79,5 +79,6 @@ themes:
 - Hardware
 title: Sesame Discovery
 website: https://github.com/opencomputeproject/discovery
+chatroom: sesame
 show_on_overview: true
 ---

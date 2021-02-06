@@ -3,11 +3,20 @@ title: "The Circular Datacenter"
 date: 
 ---
 
-## Circular Economy {#title}
+# Circular Economy {#title}
 
-### What is the circular economy?
+## What is the circular economy?
+
+Here is a great blog series that engineer, Sriram Ramkrishna wrote up on the circular datacenter and its important to open source.
 
 * Blog Series on [Dev.To](https://dev.to/sesame_engineering/let-s-talk-about-the-circular-data-center-2b63)
+
+A quick picture:
+
+{{< figure src="/stands/sesame_discovery/Linear_versus_circular.jpg" width="70%" height="70%">}}
+
+h/t [Wikipedia](https://en.wikipedia.org/wiki/Circular_economy)
+
 
 ## The 1 minute read description
 

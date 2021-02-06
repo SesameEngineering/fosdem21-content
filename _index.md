@@ -1,6 +1,6 @@
 ---
-description: "Thank you for visiting - <b>Interested in openly designed hardware,\
-  \ and lower carbon footprint?</b> You've come to the right place - check out the\ 
+description: "Thank you for visiting - <b>Interested in openly designed hardware\
+  \ while lowering carbon footprint?</b> You've come to the right place - check out the\ 
   \ open design of the Sesame Discovery chassis\
   \ - allowing individuals, organizations, and companies to have an \"datacenter in\
   \ a box\" in a desk side form factor. With the ability to plug in 4-12 nodes of\

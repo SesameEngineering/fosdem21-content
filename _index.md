@@ -60,10 +60,8 @@ description: "<b>Interested in openly designed hardware\
   \ <b> 9:30am - 10:00am</b> Welcome <br>\
   \ <b> 10:00am - 11:00am</b> Let's talk about Discovery <br>\
   \ <b> 11:00am - 12:00pm</b> Open Compute Project Topics: Open Firmware <br>\
-  \ <b> 13:00pm - 13:40pm</b> Meet the Designer of Sesame Discovery Chassis, Jean-Jacques Chanut <br>\
   \ <b> 14:00pm - 14:30pm</b> Chat with Dr. Erik Riedel, SVP of Sesame Engineering <br>\
-  \ <b> 15:00pm - 15:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
-  \ <b> 16:00pm - 17:30pm</b> General Chat - live view of Sesame Discovery <br>\
+  \ <b> 16:00pm - 17:40pm</b> Meet the Designer of the Sesame Discovery Chassis, Jean-Jacques Chanut<br>\
   \ <b> 17:35pm - 18:00pm</b> <a href=\"https://fosdem.org/2021/schedule/event/containers_datacenter_class/\">Sri's talk on Datacenter class containers for the masses</a>\
   <br>"
 

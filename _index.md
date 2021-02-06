@@ -33,16 +33,15 @@ description: "<b>Interested in openly designed hardware\
   \ One important aspect of the circular datacenter is the carbon costs that are saved when using the circular datacenter supply chain. <b>Ali Fenn</b> the President of ITRenew Inc has a great short 12 minute talk about the amount of waste a datacenter can produces as well the amount of resources it consume. In addition, there is a nice video of a tour of the design of the chassis that is the brainchild of <b>Jean-Jacques Chanut</b>. \
   \ <br>\
   \ <br>\
-  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video4.webm\" style=\"float:left;padding-right: 20px;\" allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
-  \ <iframe width=\"320\" height=\"200\" src=\"https://ftp.osuosl.org/pub/fosdem/2021/stands/sesame/sesame_video1.mp4\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+  \ <video width=\"320\" height=\"200\" controls> <source src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video4.mp4\" type=\"video/mp4\"> Your browser does not support the video tag </video> \
+  \ <video width=\"320\" height=\"200\" controls> <source src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video1.mp4\" type=\"video/mp4\"> Your browser does not support the video tag </video> \
   \ <br>
   \ <br>\
   \ Here are some additional videos by Dr. Erik Riedel the SVP of Engineering at ITRenew Inc on the Sesame Discoveyr/Fast-Start and a tour that just goes through the facts. If your're interested in hearing more click on the chat button and come speak with us! Please note that the video on the right is overly loud - please adjust accordingly.\
   \ <br>
   \ <br>\
-  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video2.mp4\" style=\"float:left;padding-right: 20px;\" allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
-  \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video3.mp4\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
-
+  \ <video width=\"320\" height=\"200\" controls> <source src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video2.mp4\" type=\"video/mp4\"> Your browser does not support the video tag </video> \
+  \ <video width=\"320\" height=\"200\" controls> <source src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video3.mp4\" type=\"video/mp4\"> Your browser does not support the video tag </video> \
   \ <br>\
   \ <h3> Schedule </h3> \
   \ <b> Saturday, February 6, 2021 </b> \

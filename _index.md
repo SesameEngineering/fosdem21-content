@@ -37,7 +37,7 @@ description: "<b>Interested in openly designed hardware\
   \ <iframe width=\"320\" height=\"200\" src=\"https://ftp.osuosl.org/pub/fosdem/2021/stands/sesame/sesame_video1.mp4\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
   \ <br>
   \ <br>\
-  \ Here are some additional videos by Dr. Erik Riedel the SVP of Engineering at ITRenew Inc on the Sesame Discoveyr/Fast-Start and a tour that just goes through the facts. If your're interested in hearing more click on the chat button and come speak with us! \
+  \ Here are some additional videos by Dr. Erik Riedel the SVP of Engineering at ITRenew Inc on the Sesame Discoveyr/Fast-Start and a tour that just goes through the facts. If your're interested in hearing more click on the chat button and come speak with us! Please note that the video on the right is overly loud - please adjust accordingly.\
   \ <br>
   \ <br>\
   \ <iframe width=\"320\" height=\"200\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video2.mp4\" style=\"float:left;padding-right: 20px;\" allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \

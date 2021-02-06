@@ -25,6 +25,11 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
   \ <img src=\"/stands/sesame_discovery/discovery_closed.png\" width=\"40%\" height=\"40%\" /> \
   \ <img src=\"/stands/sesame_discovery/discovery_open.16.jpg\" width=\"43%\" height=\"43%\" /> \
   \ <br>\
+  \ One important aspect of the circular datacenter is the carbon costs that are saved when using the circular datacenter supply chain. <b>Ali Fenn</b> the President of ITRenew Inc has a great short 12 minute talk about the amount of waste a datacenter can produces as well the amount of resources it consume.\
+  \ <br>\
+  \ <br>\
+  \ <iframe width=\"560\" height=\"315\" src=\"https://video.fosdem.org/2021/stands/sesame/sesame_video4.webm\"  allow=\"accelerometer; autoplay; picture-in-picture\" allowfullscreen> </iframe> \
+  \ <br>
   \ <br>\
   \ <br>\
   \ <h3> Schedule </h3> \
@@ -50,6 +55,7 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
   \ <b> 14:00pm - 14:30pm</b> Chat with Dr. Erik Riedel, SVP of Sesame Engineering <br>\
   \ <b> 15:00pm - 15:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
   \ <b> 16:00pm - 17:30pm</b> General Chat - live view of Sesame Discovery <br>\
+  \ <b> 17:35pm - 18:00pm</b> <a href=\"https://fosdem.org/2021/schedule/event/containers_datacenter_class/\">Sri's talk on Datacenter class containers for the masses</a>\
   <br>"
 
 

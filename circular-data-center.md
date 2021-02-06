@@ -5,11 +5,9 @@ date:
 
 ## Circular Economy {#title}
 
-What is the circular economy
-
+### What is the circular economy?
 
 * Blog Series on [Dev.To](https://dev.to/sesame_engineering/let-s-talk-about-the-circular-data-center-2b63)
-* Video on circular Economy by ITRenew President Ali Fenn
 
 ## The 1 minute read description
 
@@ -34,8 +32,8 @@ The circular datacenter business model absolutely depends on open source and ope
 
 Our President, Ali Fenn - has a talk about the carbon savings about the circular datacenter!
 
-{{< youtube PuzEMYCGeVk >}}
+You can watch the video from Ali [here](https://video.fosdem.org/2021/stands/sesame/sesame_video4.webm). It is also available on the front page.
+
 
 **Chat with us at our booth if you want to learn more!**
-
 

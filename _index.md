@@ -60,7 +60,7 @@ description: "Thank you for visiting - <b>Interested in openly designed hardware
 
 
 layout: stand
-logo: stands/sesame_discovery/discovery-logo.png
+logo: stands/sesame_discovery/discovery_closed.png
 new_this_year: "The Sesame Discovery project has been in existence for about two years but\
   \ has not had a lot of exposure to the open source and open hardware communities. In that time\
   \ frame, we have modified the chassis to accommodate adding a true 100GBE 32 port white box switch\

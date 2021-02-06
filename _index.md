@@ -51,9 +51,7 @@ description: "<b>Interested in openly designed hardware\
   \ <b> 9:30am - 10:00am</b> Welcome Event <br>\
   \ <b> 11:00am - 11:40pm</b> Circular Data Center and Open Compute Project <br>\
   \ <b> 12:00pm - 13:00pm</b> Let's talk about Discovery! - Chat w/ Dr. Erik Riedel, SVP of Sesame Engineering <br>\
-  \ <b> 15:00pm - 15:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
-  \ <b> 16:00pm - 17:00pm</b> Let's chat about Open Hardware <br>\
-  \ <b> 17:00pm - 18:00pm</b> General Chat - live view of Sesame Discovery <br>\
+  \ <b> 17:00pm - 17:40pm</b> Meet Principal Ecosystems Engineer, Sriram Ramkrishna <br>\
   \ <br>\
   \ <br>\
   \ <br>\
